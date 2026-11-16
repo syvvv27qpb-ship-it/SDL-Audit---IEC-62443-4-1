@@ -73,8 +73,8 @@ The plans include a day-by-day schedule, work assignments, auditee roles and con
 ## Repository structure
 
 ```
-├── Auditprogramme_Auditplans_DE  # Package 1: audit programme, audit plans,  (DE)
-├── Auditprogramme_Auditplans_DE  # Package 2: criteria and evidence catalogue (DE)
+├── Auditprogramm_Auditplans_DE  # Package 1: audit programme, audit plans,  (DE)
+├── Auditkriterien_Nachweise_DE  # Package 2: criteria and evidence catalogue (DE)
 └── README.md
 ```
 
