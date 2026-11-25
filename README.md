@@ -17,8 +17,8 @@ We audit the **Secure Development Lifecycle (SDL)** of **RASol GmbH** and its pr
 
 | Package | Role | Task | Status |
 |---|---|---|---|
-| 1 | Auditor | 3-year audit programme, audit plans, audit team and auditee roles (Excel) | ✓ Completed |
-| 2 | Auditor | Audit criteria catalogue with required objective evidence (Excel) | ✓ Completed |
+| 1 | Auditor | 3-year audit programme, audit plans, audit team and auditee roles (Excel) | Completed |
+| 2 | Auditor | Audit criteria catalogue with required objective evidence (Excel) | Completed |
 | 3 | Auditee | Answer another team's audit questions based on the case study | Planned |
 | 4 | Auditor | Rate the auditee's answers against the evidence; management summary (≤ 300 words) | Planned |
 
